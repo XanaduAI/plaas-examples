@@ -1,1 +1,530 @@
-{"getting_started": [{"filename": "tutorial_qubit_rotation.ipynb", "tooltip": "Use quantum machine learning to rotate a qubit.", "title": "", "thumbnail": "tutorial_qubit_rotation.png", "tags": "autograd"}, {"filename": "tutorial_backprop.ipynb", "tooltip": "Compare the parameter-shift rule with backpropagation.", "title": "", "thumbnail": "tutorial_backprop.png", "tags": "tensorflow,autograd"}, {"filename": "tutorial_adjoint_diff.ipynb", "tooltip": "Learn how to compute gradients of quantum circuits with the adjoint method.", "title": "", "thumbnail": "tutorial_adjoint_diff.png", "tags": ""}, {"filename": "tutorial_plugins_hybrid.ipynb", "tooltip": "Use quantum machine learning in a multi-device quantum algorithm.", "title": "", "thumbnail": "tutorial_plugins_hybrid.png", "tags": "autograd,photonics,strawberryfields"}, {"filename": "tutorial_noisy_circuits.ipynb", "tooltip": "Simulate noisy quantum computations.", "title": "", "thumbnail": "tutorial_noisy_circuits.png", "tags": "beginner"}, {"filename": "tutorial_gaussian_transformation.ipynb", "tooltip": "Use quantum machine learning to tune a beamsplitter.", "title": "", "thumbnail": "tutorial_gaussian_transformation.png", "tags": "autograd,photonics"}, {"filename": "braket-parallel-gradients.ipynb", "tooltip": "Parallelize gradient calculations with Amazon Braket", "title": "", "thumbnail": "braket-parallel-gradients.png", "tags": "braket"}, {"filename": "tutorial_jax_transformations.ipynb", "tooltip": "Learn how to use JAX with PennyLane.", "title": "", "thumbnail": "tutorial_jax_transformations.png", "tags": "beginner"}, {"filename": "tutorial_qnn_module_tf.ipynb", "tooltip": "Learn how to create hybrid ML models using Keras", "title": "", "thumbnail": "tutorial_qnn_module_tf.png", "tags": "tensorflow"}, {"filename": "tutorial_qnn_module_torch.ipynb", "tooltip": "Learn how to create hybrid ML models using Torch", "title": "", "thumbnail": "tutorial_qnn_module_torch.png", "tags": "pytorch"}, {"filename": "tutorial_state_preparation.ipynb", "tooltip": "Do arbitrary state preparation on a real quantum computer.", "title": "", "thumbnail": "tutorial_state_preparation.png", "tags": "pytorch"}, {"filename": "pytorch_noise.ipynb", "tooltip": "Extend PyTorch with real quantum computing power.", "title": "", "thumbnail": "pytorch_noise.gif", "tags": "forest,pytorch"}, {"filename": "tutorial_noisy_circuit_optimization.ipynb", "tooltip": "Learn how noise can affect the optimization and training of quantum computations.", "title": "", "thumbnail": "tutorial_noisy_circuit_optimization.png", "tags": "cirq"}], "quantum_machine_learning": [{"filename": "tutorial_expressivity_fourier_series.ipynb", "tooltip": "Understand the link between variational quantum models and Fourier series.", "title": "", "thumbnail": "tutorial_expressivity_fourier_series.png", "tags": "autograd"}, {"filename": "tutorial_kernels_module.ipynb", "tooltip": "Kernels and alignment training with PennyLane.", "title": "", "thumbnail": "tutorial_kernels_module.png", "tags": "kernels,alignment,classification"}, {"filename": "tutorial_kernel_based_training.ipynb", "tooltip": "Kernel-based training with scikit-learn.", "title": "", "thumbnail": "tutorial_kernel_based_training.png", "tags": "pytorch,sklearn,kernels"}, {"filename": "tutorial_variational_classifier.ipynb", "tooltip": "A quantum variational classifier.", "title": "", "thumbnail": "tutorial_variational_classifier.png", "tags": "autograd"}, {"filename": "tutorial_data_reuploading_classifier.ipynb", "tooltip": "Universal Quantum Classifier with data-reuploading.", "title": "", "thumbnail": "tutorial_data_reuploading_classifier.png", "tags": "autograd"}, {"filename": "tutorial_quantum_transfer_learning.ipynb", "tooltip": "Quantum transfer learning.", "title": "", "thumbnail": "tutorial_quantum_transfer_learning.png", "tags": "autograd,pytorch"}, {"filename": "tutorial_QGAN.ipynb", "tooltip": "Create a simple QGAN with Cirq and TensorFlow.", "title": "", "thumbnail": "tutorial_QGAN.png", "tags": "cirq,tensorflow"}, {"filename": "quantum_neural_net.ipynb", "tooltip": "Fit one-dimensional noisy data with a quantum neural network.", "title": "", "thumbnail": "quantum_neural_net.png", "tags": "autograd,strawberryfields,photonics"}, {"filename": "tutorial_qgrnn.ipynb", "tooltip": "Using a quantum graph recurrent neural network to learn quantum dynamics.", "title": "", "thumbnail": "tutorial_qgrnn.png", "tags": "autograd"}, {"filename": "learning2learn.ipynb", "tooltip": "Meta-learning technique for variational quantum algorithms.", "title": "", "thumbnail": "learning2learn.png", "tags": "tensorflow"}, {"filename": "tutorial_quanvolution.ipynb", "tooltip": "Pre-process images with a quantum convolution.", "title": "", "thumbnail": "tutorial_quanvolution.png", "tags": "tensorflow"}, {"filename": "ensemble_multi_qpu.ipynb", "tooltip": "Use multiple QPUs to improve classification.", "title": "", "thumbnail": "ensemble_multi_qpu.png", "tags": "pytorch,forest,qiskit"}, {"filename": "tutorial_quantum_gans.ipynb", "tooltip": "Generate images with Quantums GANs.", "title": "", "thumbnail": "tutorial_quantum_gans.jpeg", "tags": "pytorch,"}, {"filename": "tutorial_classical_kernels.ipynb", "tooltip": "Estimate a classical kernel function on a quantum computer.", "title": "", "thumbnail": "tutorial_classical_kernels.PNG", "tags": "kernels,approximation"}, {"filename": "tutorial_tn_circuits.ipynb", "tooltip": "Tensor network quantum circuits", "title": "", "thumbnail": "tutorial_tn_circuits.png", "tags": "tensor,network"}, {"filename": "tutorial_learning_from_experiments.ipynb", "tooltip": "Quantum advantage in learning from experiments", "title": "", "thumbnail": "tutorial_learning_from_experiments.png", "tags": "advantage,experiments"}, {"filename": "tutorial_ml_classical_shadows.ipynb", "tooltip": "Machine learning for quantum many-body problems", "title": "", "thumbnail": "tutorial_ml_classical_shadows.png", "tags": "kernels,manybodyphysics,classicalml"}, {"filename": "function_fitting_qsp.ipynb", "tooltip": "Train polynomial approximations to functions using QSP.", "title": "", "thumbnail": "function_fitting_qsp.png", "tags": "pytorch"}], "quantum_computing": [{"filename": "quantum_volume.ipynb", "tooltip": "Learn how to compute the quantum volume of a quantum processor.", "title": "", "thumbnail": "quantum_volume.png", "tags": "characterization,qiskit"}, {"filename": "tutorial_haar_measure.ipynb", "tooltip": "Learn how to sample quantum states uniformly at random", "title": "", "thumbnail": "tutorial_haar_measure.png", "tags": "quantumcomputing"}, {"filename": "tutorial_unitary_designs.ipynb", "tooltip": "Explore the amazing applications of unitary t-designs.", "title": "", "thumbnail": "tutorial_unitary_designs.png", "tags": "quantumcomputing"}, {"filename": "tutorial_classical_shadows.ipynb", "tooltip": "Approximate quantum states with classical shadows.", "title": "", "thumbnail": "tutorial_classical_shadows.png", "tags": "quantumcomputing,characterization"}, {"filename": "tutorial_pasqal.ipynb", "tooltip": "Making a quantum machine learning model using neutral atoms", "title": "", "thumbnail": "tutorial_pasqal.png", "tags": "cirq,tensorflow"}, {"filename": "qsim_beyond_classical.ipynb", "tooltip": "Beyond classical computing with qsim.", "title": "", "thumbnail": "qsim_beyond_classical.png", "tags": "cirq,qsim"}, {"filename": "tutorial_gbs.ipynb", "tooltip": "Construct and simulate a Gaussian Boson Sampler.", "title": "", "thumbnail": "tutorial_gbs.png", "tags": "photonics,strawberryfields"}, {"filename": "tutorial_trapped_ions.ipynb", "tooltip": "Quantum computing using trapped ions", "title": "", "thumbnail": "tutorial_trapped_ions.png", "tags": "quantumcomputing"}, {"filename": "tutorial_error_mitigation.ipynb", "tooltip": "Error mitigation with Mitiq and PennyLane", "title": "", "thumbnail": "tutorial_error_mitigation.png", "tags": "quantumcomputing"}, {"filename": "tutorial_sc_qubits.ipynb", "tooltip": "Quantum computing with superconducting qubits", "title": "", "thumbnail": "tutorial_sc_qubits.png", "tags": "quantumcomputing"}, {"filename": "tutorial_photonics.ipynb", "tooltip": "Photonic quantum computers", "title": "", "thumbnail": "tutorial_photonics.png", "tags": "quantumcomputing"}], "quantum_chemistry": [{"filename": "tutorial_quantum_chemistry.ipynb", "tooltip": "Explore quantum chemistry in PennyLane.", "title": "", "thumbnail": "tutorial_quantum_chemistry.png", "tags": "chemistry"}, {"filename": "tutorial_vqe.ipynb", "tooltip": "Find the ground state of a Hamiltonian.", "title": "", "thumbnail": "tutorial_vqe.png", "tags": "autograd,chemistry"}, {"filename": "tutorial_givens_rotations.ipynb", "tooltip": "Discover the building blocks of quantum circuits for quantum chemistry", "title": "", "thumbnail": "tutorial_givens_rotations.png", "tags": "chemistry"}, {"filename": "tutorial_differentiable_HF.ipynb", "tooltip": "Differentiable Hartree-Fock Solver.", "title": "", "thumbnail": "tutorial_differentiable_HF.png", "tags": "chemistry"}, {"filename": "tutorial_adaptive_circuits.ipynb", "tooltip": "Adaptive circuits for quantum chemistry.", "title": "", "thumbnail": "tutorial_adaptive_circuits.png", "tags": "chemistry"}, {"filename": "tutorial_chemical_reactions.ipynb", "tooltip": "Study chemical reactions using VQE.", "title": "", "thumbnail": "tutorial_chemical_reactions.png", "tags": ""}, {"filename": "tutorial_mol_geo_opt.ipynb", "tooltip": "Optimizing the geometry of molecules.", "title": "", "thumbnail": "tutorial_mol_geo_opt.png", "tags": "chemistry"}, {"filename": "tutorial_vqe_spin_sectors.ipynb", "tooltip": "VQE in different spin sectors", "title": "", "thumbnail": "tutorial_vqe_spin_sectors.png", "tags": "chemistry"}, {"filename": "tutorial_measurement_optimize.ipynb", "tooltip": "Optimize and reduce the number of measurements required to evaluate a variational algorithm cost function.", "title": "", "thumbnail": "tutorial_measurement_optimize.png", "tags": "chemistry"}, {"filename": "vqe_parallel.ipynb", "tooltip": "Evaluate the potential energy surface of H2 with parallel QPUs", "title": "", "thumbnail": "vqe_parallel.png", "tags": "chemistry"}, {"filename": "tutorial_qubit_tapering.ipynb", "tooltip": "Qubit tapering with symmetries", "title": "", "thumbnail": "tutorial_qubit_tapering.png", "tags": "chemistry"}], "optimization": [{"filename": "tutorial_qaoa_intro.ipynb", "tooltip": "Learn how to implement QAOA workflows with PennyLane", "title": "", "thumbnail": "tutorial_qaoa_intro.png", "tags": "autograd,beginner"}, {"filename": "tutorial_quantum_natural_gradient.ipynb", "tooltip": "Faster optimization convergence using quantum natural gradient.", "title": "", "thumbnail": "tutorial_quantum_natural_gradient.png", "tags": "autograd"}, {"filename": "tutorial_vqe_qng.ipynb", "tooltip": "VQE optimization using quantum natural gradient.", "title": "", "thumbnail": "tutorial_vqe_qng.png", "tags": "chemistry"}, {"filename": "tutorial_barren_plateaus.ipynb", "tooltip": "Barren plateaus in quantum neural networks.", "title": "", "thumbnail": "tutorial_barren_plateaus.png", "tags": "autograd"}, {"filename": "tutorial_local_cost_functions.ipynb", "tooltip": "Understand the difference between local and global cost functions.", "title": "", "thumbnail": "tutorial_local_cost_functions.png", "tags": "autograd"}, {"filename": "spsa.ipynb", "tooltip": "Reduce the number of device executions by using a stochastic approximation optimization.", "title": "", "thumbnail": "spsa.png", "tags": "qiskit"}, {"filename": "tutorial_general_parshift.ipynb", "tooltip": "Reconstruct and differentiate univariate quantum functions.", "title": "", "thumbnail": "tutorial_general_parshift.png", "tags": "gradients,reconstruction"}, {"filename": "tutorial_doubly_stochastic.ipynb", "tooltip": "Doubly stochastic gradient descent.", "title": "", "thumbnail": "tutorial_doubly_stochastic.png", "tags": "autograd"}, {"filename": "tutorial_stochastic_parameter_shift.ipynb", "tooltip": "Differentiate any qubit gate with the stochastic parameter-shift rule.", "title": "", "thumbnail": "tutorial_stochastic_parameter_shift.png", "tags": "autograd"}, {"filename": "tutorial_rotoselect.ipynb", "tooltip": "Rotoselect algorithm.", "title": "", "thumbnail": "tutorial_rotoselect.png", "tags": "autograd"}, {"filename": "tutorial_rosalin.ipynb", "tooltip": "Frugal shot optimization with the Rosalin optimizer.", "title": "", "thumbnail": "tutorial_rosalin.png", "tags": "autograd"}, {"filename": "tutorial_falqon.ipynb", "tooltip": "Solve combinatorial problems without a classical optimizer.", "title": "", "thumbnail": "tutorial_falqon.png", "tags": "autograd"}, {"filename": "tutorial_quantum_analytic_descent.ipynb", "tooltip": "Build trigonometric local models of your cost function.", "title": "", "thumbnail": "tutorial_quantum_analytic_descent.png", "tags": "optimization,model,vqe"}, {"filename": "tutorial_quantum_metrology.ipynb", "tooltip": "Optimizing measurement protocols with variational methods.", "title": "", "thumbnail": "tutorial_quantum_metrology.png", "tags": "cirq,metrology,autograd"}, {"filename": "tutorial_vqt.ipynb", "tooltip": "Learn about the variational quantum thermalizer algorithm, an extension of VQE.", "title": "", "thumbnail": "tutorial_vqt.png", "tags": "chemistry"}, {"filename": "tutorial_vqls.ipynb", "tooltip": "Variational Quantum Linear Solver.", "title": "", "thumbnail": "tutorial_vqls.png", "tags": "autograd"}, {"filename": "tutorial_coherent_vqls.ipynb", "tooltip": "Coherent implementation of a variational quantum linear solver.", "title": "", "thumbnail": "tutorial_coherent_vqls.png", "tags": "autograd"}, {"filename": "qonn.ipynb", "tooltip": "Optimize a Quantum Optical Neural Network using NLopt.", "title": "", "thumbnail": "qonn.png", "tags": "autograd,photonics"}, {"filename": "tutorial_isingmodel_PyTorch.ipynb", "tooltip": "Ising model example with PennyLane PyTorch interface.", "title": "", "thumbnail": "tutorial_isingmodel_PyTorch.png", "tags": "pytorch,autograd"}, {"filename": "tutorial_qaoa_maxcut.ipynb", "tooltip": "Perform QAOA for MaxCut.", "title": "", "thumbnail": "tutorial_qaoa_maxcut.png", "tags": "autograd"}]}
+{
+    "getting_started": [
+        {
+            "filename": "tutorial_qubit_rotation.ipynb",
+            "tags": "autograd",
+            "thumbnail": "tutorial_qubit_rotation.png",
+            "title": "Basic tutorial: qubit rotation",
+            "tooltip": "Use quantum machine learning to rotate a qubit."
+        },
+        {
+            "filename": "tutorial_backprop.ipynb",
+            "tags": "tensorflow,autograd",
+            "thumbnail": "tutorial_backprop.png",
+            "title": "Quantum gradients with backpropagation",
+            "tooltip": "Compare the parameter-shift rule with backpropagation."
+        },
+        {
+            "filename": "tutorial_adjoint_diff.ipynb",
+            "tags": "",
+            "thumbnail": "tutorial_adjoint_diff.png",
+            "title": "Adjoint Differentiation",
+            "tooltip": "Learn how to compute gradients of quantum circuits with the adjoint method."
+        },
+        {
+            "filename": "tutorial_plugins_hybrid.ipynb",
+            "tags": "autograd,photonics,strawberryfields",
+            "thumbnail": "tutorial_plugins_hybrid.png",
+            "title": "Plugins and Hybrid computation",
+            "tooltip": "Use quantum machine learning in a multi-device quantum algorithm."
+        },
+        {
+            "filename": "tutorial_noisy_circuits.ipynb",
+            "tags": "beginner",
+            "thumbnail": "tutorial_noisy_circuits.png",
+            "title": "Noisy circuits",
+            "tooltip": "Simulate noisy quantum computations."
+        },
+        {
+            "filename": "tutorial_gaussian_transformation.ipynb",
+            "tags": "autograd,photonics",
+            "thumbnail": "tutorial_gaussian_transformation.png",
+            "title": "Gaussian transformation",
+            "tooltip": "Use quantum machine learning to tune a beamsplitter."
+        },
+        {
+            "filename": "braket-parallel-gradients.ipynb",
+            "tags": "braket",
+            "thumbnail": "braket-parallel-gradients.png",
+            "title": "Computing gradients in parallel with Amazon Braket",
+            "tooltip": "Parallelize gradient calculations with Amazon Braket"
+        },
+        {
+            "filename": "tutorial_jax_transformations.ipynb",
+            "tags": "beginner",
+            "thumbnail": "tutorial_jax_transformations.png",
+            "title": "Using JAX with PennyLane",
+            "tooltip": "Learn how to use JAX with PennyLane."
+        },
+        {
+            "filename": "tutorial_qnn_module_tf.ipynb",
+            "tags": "tensorflow",
+            "thumbnail": "tutorial_qnn_module_tf.png",
+            "title": "Turning quantum nodes into Keras Layers",
+            "tooltip": "Learn how to create hybrid ML models using Keras"
+        },
+        {
+            "filename": "tutorial_qnn_module_torch.ipynb",
+            "tags": "pytorch",
+            "thumbnail": "tutorial_qnn_module_torch.png",
+            "title": "Turning quantum nodes into Torch Layers",
+            "tooltip": "Learn how to create hybrid ML models using Torch"
+        },
+        {
+            "filename": "tutorial_state_preparation.ipynb",
+            "tags": "pytorch",
+            "thumbnail": "tutorial_state_preparation.png",
+            "title": "Training a quantum circuit with PyTorch",
+            "tooltip": "Do arbitrary state preparation on a real quantum computer."
+        },
+        {
+            "filename": "pytorch_noise.ipynb",
+            "tags": "forest,pytorch",
+            "thumbnail": "pytorch_noise.gif",
+            "title": "PyTorch and noisy devices",
+            "tooltip": "Extend PyTorch with real quantum computing power."
+        },
+        {
+            "filename": "tutorial_noisy_circuit_optimization.ipynb",
+            "tags": "cirq",
+            "thumbnail": "tutorial_noisy_circuit_optimization.png",
+            "title": "Optimizing noisy circuits with Cirq",
+            "tooltip": "Learn how noise can affect the optimization and training of quantum computations."
+        }
+    ],
+    "optimization": [
+        {
+            "filename": "tutorial_qaoa_intro.ipynb",
+            "tags": "autograd,beginner",
+            "thumbnail": "tutorial_qaoa_intro.png",
+            "title": "Intro to QAOA",
+            "tooltip": "Learn how to implement QAOA workflows with PennyLane"
+        },
+        {
+            "filename": "tutorial_quantum_natural_gradient.ipynb",
+            "tags": "autograd",
+            "thumbnail": "tutorial_quantum_natural_gradient.png",
+            "title": "Quantum natural gradient",
+            "tooltip": "Faster optimization convergence using quantum natural gradient."
+        },
+        {
+            "filename": "tutorial_vqe_qng.ipynb",
+            "tags": "chemistry",
+            "thumbnail": "tutorial_vqe_qng.png",
+            "title": "Accelerating VQEs with quantum natural gradient",
+            "tooltip": "VQE optimization using quantum natural gradient."
+        },
+        {
+            "filename": "tutorial_barren_plateaus.ipynb",
+            "tags": "autograd",
+            "thumbnail": "tutorial_barren_plateaus.png",
+            "title": "Barren plateaus in quantum neural networks",
+            "tooltip": "Barren plateaus in quantum neural networks."
+        },
+        {
+            "filename": "tutorial_local_cost_functions.ipynb",
+            "tags": "autograd",
+            "thumbnail": "tutorial_local_cost_functions.png",
+            "title": "Alleviating barren plateaus with local cost functions",
+            "tooltip": "Understand the difference between local and global cost functions."
+        },
+        {
+            "filename": "spsa.ipynb",
+            "tags": "qiskit",
+            "thumbnail": "spsa.png",
+            "title": "Optimization using SPSA",
+            "tooltip": "Reduce the number of device executions by using a stochastic approximation optimization."
+        },
+        {
+            "filename": "tutorial_general_parshift.ipynb",
+            "tags": "gradients,reconstruction",
+            "thumbnail": "tutorial_general_parshift.png",
+            "title": "Generalized parameter-shift rules",
+            "tooltip": "Reconstruct and differentiate univariate quantum functions."
+        },
+        {
+            "filename": "tutorial_doubly_stochastic.ipynb",
+            "tags": "autograd",
+            "thumbnail": "tutorial_doubly_stochastic.png",
+            "title": "Doubly stochastic gradient descent",
+            "tooltip": "Doubly stochastic gradient descent."
+        },
+        {
+            "filename": "tutorial_stochastic_parameter_shift.ipynb",
+            "tags": "autograd",
+            "thumbnail": "tutorial_stochastic_parameter_shift.png",
+            "title": "The Stochastic Parameter-Shift Rule",
+            "tooltip": "Differentiate any qubit gate with the stochastic parameter-shift rule."
+        },
+        {
+            "filename": "tutorial_rotoselect.ipynb",
+            "tags": "autograd",
+            "thumbnail": "tutorial_rotoselect.png",
+            "title": "Quantum circuit structure learning",
+            "tooltip": "Rotoselect algorithm."
+        },
+        {
+            "filename": "tutorial_rosalin.ipynb",
+            "tags": "autograd",
+            "thumbnail": "tutorial_rosalin.png",
+            "title": "Frugal shot optimization with Rosalin",
+            "tooltip": "Frugal shot optimization with the Rosalin optimizer."
+        },
+        {
+            "filename": "tutorial_falqon.ipynb",
+            "tags": "autograd",
+            "thumbnail": "tutorial_falqon.png",
+            "title": "Feedback-Based Quantum Optimization (FALQON)",
+            "tooltip": "Solve combinatorial problems without a classical optimizer."
+        },
+        {
+            "filename": "tutorial_quantum_analytic_descent.ipynb",
+            "tags": "optimization,model,vqe",
+            "thumbnail": "tutorial_quantum_analytic_descent.png",
+            "title": "Quantum analytic descent",
+            "tooltip": "Build trigonometric local models of your cost function."
+        },
+        {
+            "filename": "tutorial_quantum_metrology.ipynb",
+            "tags": "cirq,metrology,autograd",
+            "thumbnail": "tutorial_quantum_metrology.png",
+            "title": "Variationally optimizing measurement protocols",
+            "tooltip": "Optimizing measurement protocols with variational methods."
+        },
+        {
+            "filename": "tutorial_vqt.ipynb",
+            "tags": "chemistry",
+            "thumbnail": "tutorial_vqt.png",
+            "title": "The Variational Quantum Thermalizer",
+            "tooltip": "Learn about the variational quantum thermalizer algorithm, an extension of VQE."
+        },
+        {
+            "filename": "tutorial_vqls.ipynb",
+            "tags": "autograd",
+            "thumbnail": "tutorial_vqls.png",
+            "title": "Variational Quantum Linear Solver",
+            "tooltip": "Variational Quantum Linear Solver."
+        },
+        {
+            "filename": "tutorial_coherent_vqls.ipynb",
+            "tags": "autograd",
+            "thumbnail": "tutorial_coherent_vqls.png",
+            "title": "Coherent Variational Quantum Linear Solver",
+            "tooltip": "Coherent implementation of a variational quantum linear solver."
+        },
+        {
+            "filename": "qonn.ipynb",
+            "tags": "autograd,photonics",
+            "thumbnail": "qonn.png",
+            "title": "Optimizing a quantum optical neural network",
+            "tooltip": "Optimize a Quantum Optical Neural Network using NLopt."
+        },
+        {
+            "filename": "tutorial_isingmodel_PyTorch.ipynb",
+            "tags": "pytorch,autograd",
+            "thumbnail": "tutorial_isingmodel_PyTorch.png",
+            "title": "3-qubit Ising model in PyTorch",
+            "tooltip": "Ising model example with PennyLane PyTorch interface."
+        },
+        {
+            "filename": "tutorial_qaoa_maxcut.ipynb",
+            "tags": "autograd",
+            "thumbnail": "tutorial_qaoa_maxcut.png",
+            "title": "QAOA for MaxCut",
+            "tooltip": "Perform QAOA for MaxCut."
+        },
+        {
+            "filename": "qnspsa.ipynb",
+            "tags": "braket",
+            "thumbnail": "qnspsa.png",
+            "title": "Quantum natural SPSA optimizer",
+            "tooltip": "Quantum natural SPSA optimizer that reduces the number of quantum measurements in the optimization."
+        }
+    ],
+    "quantum_chemistry": [
+        {
+            "filename": "tutorial_quantum_chemistry.ipynb",
+            "tags": "chemistry",
+            "thumbnail": "tutorial_quantum_chemistry.png",
+            "title": "Building molecular Hamiltonians",
+            "tooltip": "Explore quantum chemistry in PennyLane."
+        },
+        {
+            "filename": "tutorial_vqe.ipynb",
+            "tags": "autograd,chemistry",
+            "thumbnail": "tutorial_vqe.png",
+            "title": "A brief overview of VQE",
+            "tooltip": "Find the ground state of a Hamiltonian."
+        },
+        {
+            "filename": "tutorial_givens_rotations.ipynb",
+            "tags": "chemistry",
+            "thumbnail": "tutorial_givens_rotations.png",
+            "title": "Givens rotations for quantum chemistry",
+            "tooltip": "Discover the building blocks of quantum circuits for quantum chemistry"
+        },
+        {
+            "filename": "tutorial_differentiable_HF.ipynb",
+            "tags": "chemistry",
+            "thumbnail": "tutorial_differentiable_HF.png",
+            "title": "Differentiable Hartree-Fock",
+            "tooltip": "Differentiable Hartree-Fock Solver."
+        },
+        {
+            "filename": "tutorial_adaptive_circuits.ipynb",
+            "tags": "chemistry",
+            "thumbnail": "tutorial_adaptive_circuits.png",
+            "title": "Adaptive circuits for quantum chemistry",
+            "tooltip": "Adaptive circuits for quantum chemistry."
+        },
+        {
+            "filename": "tutorial_chemical_reactions.ipynb",
+            "tags": "",
+            "thumbnail": "tutorial_chemical_reactions.png",
+            "title": "Modelling chemical reactions on a quantum computer",
+            "tooltip": "Study chemical reactions using VQE."
+        },
+        {
+            "filename": "tutorial_mol_geo_opt.ipynb",
+            "tags": "chemistry",
+            "thumbnail": "tutorial_mol_geo_opt.png",
+            "title": "Optimization of molecular geometries",
+            "tooltip": "Optimizing the geometry of molecules."
+        },
+        {
+            "filename": "tutorial_vqe_spin_sectors.ipynb",
+            "tags": "chemistry",
+            "thumbnail": "tutorial_vqe_spin_sectors.png",
+            "title": "VQE in different spin sectors",
+            "tooltip": "VQE in different spin sectors"
+        },
+        {
+            "filename": "tutorial_measurement_optimize.ipynb",
+            "tags": "chemistry",
+            "thumbnail": "tutorial_measurement_optimize.png",
+            "title": "Measurement optimization",
+            "tooltip": "Optimize and reduce the number of measurements required to evaluate a variational algorithm cost function."
+        },
+        {
+            "filename": "vqe_parallel.ipynb",
+            "tags": "chemistry",
+            "thumbnail": "vqe_parallel.png",
+            "title": "VQE with parallel QPUs on Rigetti Forest",
+            "tooltip": "Evaluate the potential energy surface of H2 with parallel QPUs"
+        },
+        {
+            "filename": "tutorial_qubit_tapering.ipynb",
+            "tags": "chemistry",
+            "thumbnail": "tutorial_qubit_tapering.png",
+            "title": "Qubit tapering",
+            "tooltip": "Qubit tapering with symmetries"
+        }
+    ],
+    "quantum_computing": [
+        {
+            "filename": "quantum_volume.ipynb",
+            "tags": "characterization,qiskit",
+            "thumbnail": "quantum_volume.png",
+            "title": "Quantum volume",
+            "tooltip": "Learn how to compute the quantum volume of a quantum processor."
+        },
+        {
+            "filename": "tutorial_haar_measure.ipynb",
+            "tags": "quantumcomputing",
+            "thumbnail": "tutorial_haar_measure.png",
+            "title": "Understanding the Haar Measure",
+            "tooltip": "Learn how to sample quantum states uniformly at random"
+        },
+        {
+            "filename": "tutorial_unitary_designs.ipynb",
+            "tags": "quantumcomputing",
+            "thumbnail": "tutorial_unitary_designs.png",
+            "title": "Unitary Designs",
+            "tooltip": "Explore the amazing applications of unitary t-designs."
+        },
+        {
+            "filename": "tutorial_classical_shadows.ipynb",
+            "tags": "quantumcomputing,characterization",
+            "thumbnail": "tutorial_classical_shadows.png",
+            "title": "Classical Shadows",
+            "tooltip": "Approximate quantum states with classical shadows."
+        },
+        {
+            "filename": "tutorial_pasqal.ipynb",
+            "tags": "cirq,tensorflow",
+            "thumbnail": "tutorial_pasqal.png",
+            "title": "Quantum computation with neutral atoms",
+            "tooltip": "Making a quantum machine learning model using neutral atoms"
+        },
+        {
+            "filename": "qsim_beyond_classical.ipynb",
+            "tags": "cirq,qsim",
+            "thumbnail": "qsim_beyond_classical.png",
+            "title": "Beyond classical computing with qsim",
+            "tooltip": "Beyond classical computing with qsim."
+        },
+        {
+            "filename": "tutorial_gbs.ipynb",
+            "tags": "photonics,strawberryfields",
+            "thumbnail": "tutorial_gbs.png",
+            "title": "Quantum advantage with Gaussian Boson Sampling",
+            "tooltip": "Construct and simulate a Gaussian Boson Sampler."
+        },
+        {
+            "filename": "tutorial_trapped_ions.ipynb",
+            "tags": "quantumcomputing",
+            "thumbnail": "tutorial_trapped_ions.png",
+            "title": "Trapped ion quantum computers",
+            "tooltip": "Quantum computing using trapped ions"
+        },
+        {
+            "filename": "tutorial_error_mitigation.ipynb",
+            "tags": "quantumcomputing",
+            "thumbnail": "tutorial_error_mitigation.png",
+            "title": "Error mitigation with Mitiq and PennyLane",
+            "tooltip": "Error mitigation with Mitiq and PennyLane"
+        },
+        {
+            "filename": "tutorial_sc_qubits.ipynb",
+            "tags": "quantumcomputing",
+            "thumbnail": "tutorial_sc_qubits.png",
+            "title": "Quantum computing with superconducting qubits",
+            "tooltip": "Quantum computing with superconducting qubits"
+        },
+        {
+            "filename": "tutorial_photonics.ipynb",
+            "tags": "quantumcomputing",
+            "thumbnail": "tutorial_photonics.png",
+            "title": "Photonic quantum computers",
+            "tooltip": "Photonic quantum computers"
+        }
+    ],
+    "quantum_machine_learning": [
+        {
+            "filename": "tutorial_expressivity_fourier_series.ipynb",
+            "tags": "autograd",
+            "thumbnail": "tutorial_expressivity_fourier_series.png",
+            "title": "Quantum models as Fourier series",
+            "tooltip": "Understand the link between variational quantum models and Fourier series."
+        },
+        {
+            "filename": "tutorial_kernels_module.ipynb",
+            "tags": "kernels,alignment,classification",
+            "thumbnail": "tutorial_kernels_module.png",
+            "title": "Training and evaluating quantum kernels",
+            "tooltip": "Kernels and alignment training with PennyLane."
+        },
+        {
+            "filename": "tutorial_kernel_based_training.ipynb",
+            "tags": "pytorch,sklearn,kernels",
+            "thumbnail": "tutorial_kernel_based_training.png",
+            "title": "Kernel-based training of quantum models with scikit-learn",
+            "tooltip": "Kernel-based training with scikit-learn."
+        },
+        {
+            "filename": "tutorial_variational_classifier.ipynb",
+            "tags": "autograd",
+            "thumbnail": "tutorial_variational_classifier.png",
+            "title": "Variational classifier",
+            "tooltip": "A quantum variational classifier."
+        },
+        {
+            "filename": "tutorial_data_reuploading_classifier.ipynb",
+            "tags": "autograd",
+            "thumbnail": "tutorial_data_reuploading_classifier.png",
+            "title": "Data-reuploading classifier",
+            "tooltip": "Universal Quantum Classifier with data-reuploading."
+        },
+        {
+            "filename": "tutorial_quantum_transfer_learning.ipynb",
+            "tags": "autograd,pytorch",
+            "thumbnail": "tutorial_quantum_transfer_learning.png",
+            "title": "Quantum transfer learning",
+            "tooltip": "Quantum transfer learning."
+        },
+        {
+            "filename": "tutorial_QGAN.ipynb",
+            "tags": "cirq,tensorflow",
+            "thumbnail": "tutorial_QGAN.png",
+            "title": "Quantum Generative Adversarial Networks with Cirq + TensorFlow",
+            "tooltip": "Create a simple QGAN with Cirq and TensorFlow."
+        },
+        {
+            "filename": "quantum_neural_net.ipynb",
+            "tags": "autograd,strawberryfields,photonics",
+            "thumbnail": "quantum_neural_net.png",
+            "title": "Function fitting with a photonic quantum neural network",
+            "tooltip": "Fit one-dimensional noisy data with a quantum neural network."
+        },
+        {
+            "filename": "tutorial_qgrnn.ipynb",
+            "tags": "autograd",
+            "thumbnail": "tutorial_qgrnn.png",
+            "title": "The Quantum Graph Recurrent Neural Network",
+            "tooltip": "Using a quantum graph recurrent neural network to learn quantum dynamics."
+        },
+        {
+            "filename": "learning2learn.ipynb",
+            "tags": "tensorflow",
+            "thumbnail": "learning2learn.png",
+            "title": "Learning to learn with quantum neural networks",
+            "tooltip": "Meta-learning technique for variational quantum algorithms."
+        },
+        {
+            "filename": "tutorial_quanvolution.ipynb",
+            "tags": "tensorflow",
+            "thumbnail": "tutorial_quanvolution.png",
+            "title": "Quanvolutional Neural Networks",
+            "tooltip": "Pre-process images with a quantum convolution."
+        },
+        {
+            "filename": "ensemble_multi_qpu.ipynb",
+            "tags": "pytorch,forest,qiskit",
+            "thumbnail": "ensemble_multi_qpu.png",
+            "title": "Ensemble classification with Forest and Qiskit devices",
+            "tooltip": "Use multiple QPUs to improve classification."
+        },
+        {
+            "filename": "tutorial_quantum_gans.ipynb",
+            "tags": "pytorch,",
+            "thumbnail": "tutorial_quantum_gans.jpeg",
+            "title": "Quantum GANs",
+            "tooltip": "Generate images with Quantums GANs."
+        },
+        {
+            "filename": "tutorial_classical_kernels.ipynb",
+            "tags": "kernels,approximation",
+            "thumbnail": "tutorial_classical_kernels.PNG",
+            "title": "How to approximate a classical kernel with a quantum computer",
+            "tooltip": "Estimate a classical kernel function on a quantum computer."
+        },
+        {
+            "filename": "tutorial_tn_circuits.ipynb",
+            "tags": "tensor,network",
+            "thumbnail": "tutorial_tn_circuits.png",
+            "title": "Tensor-Network Quantum Circuits",
+            "tooltip": "Tensor network quantum circuits"
+        },
+        {
+            "filename": "tutorial_learning_from_experiments.ipynb",
+            "tags": "advantage,experiments",
+            "thumbnail": "tutorial_learning_from_experiments.png",
+            "title": "Quantum advantage in learning from experiments",
+            "tooltip": "Quantum advantage in learning from experiments"
+        },
+        {
+            "filename": "tutorial_ml_classical_shadows.ipynb",
+            "tags": "kernels,manybodyphysics,classicalml",
+            "thumbnail": "tutorial_ml_classical_shadows.png",
+            "title": "Machine learning for quantum many-body problems",
+            "tooltip": "Machine learning for quantum many-body problems"
+        },
+        {
+            "filename": "function_fitting_qsp.ipynb",
+            "tags": "pytorch",
+            "thumbnail": "function_fitting_qsp.png",
+            "title": "Function Fitting using Quantum Signal Processing",
+            "tooltip": "Train polynomial approximations to functions using QSP."
+        }
+    ]
+}
